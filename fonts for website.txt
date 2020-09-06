@@ -1,0 +1,7 @@
+name mainpage ="lovers quarrel"
+headers menu all caps="poiret one"
+bio name="lovers quarrel"
+bio subtitle all caps="poiret one"
+body bio="poiret one" normal
+contact info="poiret one" all caps
+rest text contact="poiret one"normal
